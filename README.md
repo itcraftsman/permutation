@@ -5,7 +5,7 @@ A Go Pkg to permutate slices and 2D slices.
 
 Example:
 
-<code>
+<pre><code>
 import (
 	"fmt"
 	"github.com/itcraftsman/permutation"
@@ -26,6 +26,6 @@ func main() {
 	}
 	fmt.Println(len(result2d))
 }
-</code>
+</code></pre>
 
 
