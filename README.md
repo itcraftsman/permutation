@@ -1,11 +1,12 @@
 permutation
 ===========
 
-A Go Pkg to permutate slices and 2D slices and returns an slice with all possible permutations within.
+A Go Pkg to permutate slices and 2D slices and returns a slice with all possible permutations within.
 
 Example:
 
-<pre><code>
+<div class="highlight">
+<pre>
 import (
 	"fmt"
 	"github.com/itcraftsman/permutation"
@@ -26,6 +27,7 @@ func main() {
 	}
 	fmt.Println(len(result2d))
 }
-</code></pre>
+</pre>
+</div>
 
 
