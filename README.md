@@ -1,7 +1,7 @@
 permutation
 ===========
 
-A Go Pkg to permutate slices and 2D slices.
+A Go Pkg to permutate slices and 2D slices and returns an slice with all possible permutations within.
 
 Example:
 
